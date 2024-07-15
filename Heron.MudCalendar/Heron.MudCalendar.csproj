@@ -5,6 +5,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <TargetFrameworks>net8.0</TargetFrameworks>
         <Platforms>AnyCPU;x64</Platforms>
+        <Configurations>Debug;Release;QuickData</Configurations>
     </PropertyGroup>
     
     <PropertyGroup>
